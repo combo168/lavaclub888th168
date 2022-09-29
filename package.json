@@ -1,0 +1,16 @@
+{
+  "name": "lavaclub888th168",
+  "main": "lavaclub888th168",
+  "theme": "syntax",
+  "version": "1.1.1",
+  "description": "เว็บสล็อตที่ดีที่สุดในปี 2022 ต้อง lavaclub888 สุดยอดเว็บสล็อตออนไลน์ของคนไทย ฝาก-ถอนไวด้วยระบบออโต้ 24 ชั่วโมง เล่นง่ายไม่ยุ่งยากด้วยระบบที่ใครก็เข้าใจได้",
+  "keywords": [
+    "lavaclub888",
+    "เว็บสล็อต"
+  ],
+  "repository": "https://github.com/combo168/lavaclub888th168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
